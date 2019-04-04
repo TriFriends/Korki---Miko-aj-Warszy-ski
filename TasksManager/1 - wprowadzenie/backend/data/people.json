@@ -1,0 +1,86 @@
+[
+    {
+        "first_name": "Martin",
+        "last_name": "Martin",
+        "email": "martin@gmail.com",
+        "description": "vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris",
+        "height": 182.38,
+        "weight": 96.81,
+        "birth_date": "1990-02-21T02:55:03Z",
+        "nationality": "Japan",
+        "credit": [
+            {
+                "type": "switch",
+                "number": "6759888939100098699",
+                "currency": "COP",
+                "balance": "5117.06"
+            }
+        ]
+    },
+    {
+        "first_name": "Paula",
+        "last_name": "Harvey",
+        "email": "pharvey7pq@slate.com",
+        "description": "libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit",
+        "height": 169.44,
+        "weight": 64.64,
+        "birth_date": "1956-03-04T23:04:00Z",
+        "nationality": "Israel",
+        "credit": [
+            {
+                "type": "diners-club-carte-blanche",
+                "number": "3537725125746360",
+                "currency": "IDR",
+                "balance": "5212.4"
+            },
+            {
+                "type": "diners-club-carte-blanche",
+                "number": "6771133230426393610",
+                "currency": "RUB",
+                "balance": "5148.82"
+            },
+            {
+                "type": "jcb",
+                "number": "3561054163233994",
+                "currency": "AMD",
+                "balance": "5200.5"
+            },
+            {
+                "type": "jcb",
+                "number": "3546771537335235",
+                "currency": "USD",
+                "balance": "5342.21"
+            }
+        ]
+    },
+    {
+        "first_name": "Tina",
+        "last_name": "Turner",
+        "email": "tturner7pb@php.net",
+        "description": "vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus",
+        "height": 166.75,
+        "weight": 66.73,
+        "birth_date": "1976-04-04T18:24:51Z",
+        "nationality": "Greece",
+        "credit": [
+            {
+                "type": "visa-electron",
+                "number": "3569927652321200",
+                "currency": "KZT",
+                "balance": "6370.64"
+            },
+            {
+                "type": "diners-club-carte-blanche",
+                "number": "5396348883161089",
+                "currency": "RUB",
+                "balance": "5481.54"
+            },
+            {
+                "type": "jcb",
+                "number": "3537222731021917",
+                "currency": "IDR",
+                "balance": "6113.02"
+            }
+        ]
+    }
+]
